@@ -12,71 +12,68 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "GDayX Chile"
 email: "gdayxchile@gmail.com"
-description: "GDayX Chile - enero 2015"
-baseurl: "/zeppelin"
+description: "GDayX Chile - La previa"
+baseurl: "/zeppelin"  ###################### REVISAR
 url: "http://www.gdayx.cl"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-58027355-1"
 googleAnalyticsSiteUrl: "www.gdayx.cl"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+siteVerification: "XPB0MxTWYT0R8YZaXW3NImaglndbA20Y80ym48HLinU"
 
 # Organizer Info
-organizerName: "GBG Santiago"
-organizerAlternateName: "Google Business Group Santiago"
-organizerDescription: "GBG & GBG Women"
+organizerName: "GDayX"
+organizerAlternateName: "GDayX"
+organizerDescription: "Comunidades GBG, GDG y Women Techmakers"
 organizerEmail: "gdayxchile@gmail.com"
-organizerLogo: "/img/seo/organizer-logo.png"
+organizerLogo: "/img/seo/GDayX_CHILE.png"
 organizerLink: "http://www.gdayx.cl"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, gdg, gbg, google, programming, android, chrome, developers, women techmakers"
 twitterAccount: "@GDayXChile"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png" #### CAMBIAR FOTO #####
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png" #### CAMBIAR FOTO #####
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png" #### CAMBIAR FOTO #####
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+# c4pUrl: "http://bit.ly/dfua-c4p"
+# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
-navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
-
+# navigationLinks:
+ # - {permalink: "/", text: "Inicio"}
+ # - {permalink: "/blog/", text: "Blog"}
+ # - {permalink: "/schedule/", text: "Agenda"}
+ # - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/team/", text: "Nosotros"}
+ 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "GDayX <typeout> 2015"
-eventDate: "Enero, 2015"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+heroImage: "DSC8557.png"
+heroTitle: "GDayX, La previa"
+eventDate: "Jueves 29 Enero - 19hrs"
+typeoutTextValues: '"", "Santiago", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Chile"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Cambiar opción"}
- - {permalink: "/#tickets", text: "Obtener entradas"}
+ - {permalink: "https://docs.google.com/forms/d/1hE67Pe5xMm9ejzD5ERzi68x2nyC0wyRd7HGsh3A470E/viewform", text: "¡Registrate Aqui!"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "Sobre el evento"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Charlas", image: "conference.jpg", text: "Conoce herramientas técnicas y de negocios que te ayudarán a potenciar tus proyectos" } # poner imagen
+ - {title: "Comunidad", image: "comunidades.jpg", text: "Sé parte de estas nuevas comunidades en Chile!" } # poner imagen
+ - {title: "Redes de contacto", image: "networking.png", text: "Extiende tus redes de contacto" } # poner imagen
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
-statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+# statisticBlockImage: "statistic.jpg"
+# statisticBlock:
+# - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+# - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+# - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+# - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -93,15 +90,15 @@ eventAddressLocality: "Macul"
 eventAddressLocalityRegion: "Santiago"
 eventPostalCode: "79000"
 eventAddressCountry: "Chile"
-eventStartTime: "2015-01-13T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2015-01-13T20:00"
+eventStartTime: "2015-01-13T19:00"
+eventDoorTime: "19:00"
+eventEndTime: "2015-01-13T21:00"
 eventPlaceCoordinates: "-33.499243, -70.615715"
 mapCenterCoordinates: "-33.499083, -70.618722"
 mapMobileCenterCoordinates: "-33.499083, -70.618722"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Centro de Innovación UC"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
@@ -112,68 +109,68 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "gdayxchile"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizadores"
+# partnersTitle: "Partners"
+# partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+#subscribeImage: "subscribe.jpg"
+#subscribeTitle: "Subscribe for updates"
+#subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+#subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-ticketsOffers:
- -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+#ticketsTitle: "Pricetable"
+#ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the #ticket price."
+#ticketsOffers:
+# -
+ # name: "Early Bird"
+#  price: "350"
+#  priceCurrency: "UAH"
+#  ticketsNumber: "150"
+#  ribbon: "-5%"
+#  buyButtonLink: "http://dfua.ticketforevent.com/"
+#  buyButtonText: "Buy Now"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-08-25T10:00"
+#  validThrough: "2014-09-30T23:59"
+# -
+#  name: "Last Chance"
+#  price: "450"
+#  priceCurrency: "UAH"
+#  ticketsNumber: "100"
+#  ribbon: "-20%"
+#  featured: true
+#  buyButtonLink: "http://dfua.ticketforevent.com/"
+#  buyButtonText: "Buy Now"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-10-01T00:00"
+#  validThrough: "2014-10-23T23:59"
+#  disabled: true
+# -
+#  name: "Student"
+#  price: "200"
+#  priceCurrency: "UAH"
+#  ticketsNumber: "50"
+#  buyButtonLink: "http://dfua.ticketforevent.com/"
+#  buyButtonText: "Buy Now"
+#  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be #cancelled without refund"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-08-20T10:00"
+#  validThrough: "2014-10-23T23:59"
+#  soldOut: true
+#  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "https://plus.google.com/u/3/103664203878041656499", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDayXChile", icon: "twitter"}
+ - {link: "https://www.facebook.com/gdayxchile", icon: "facebook"}
+ # - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
@@ -184,10 +181,10 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+# -
+#  title: "FAQ"
+#  links:
+#   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
