@@ -2,7 +2,7 @@
 .idea
 
 ### Jekyll ###
-#_site/
+_site/
 
 ### Sass ###
 .sass-cache
