@@ -60,7 +60,7 @@ heroButtons:
 # About Block
 aboutTitle: "Sobre el evento"
 aboutBlock:
- - {title: "Charlas", image: "conference.jpg", text: "Conoce herramientas técnicas y de negocios que te ayudarán a potenciar tus proyectos" } # poner imagen
+ - {title: "Charlas Tecnicas", image: "conference.jpg", text: "Conoce herramientas técnicas y de negocios que te ayudarán a potenciar tus proyectos" } # poner imagen
  - {title: "Comunidad", image: "comunidades.jpg", text: "Sé parte de estas nuevas comunidades en Chile!" } # poner imagen
  - {title: "Redes de contacto", image: "networking.png", text: "Extiende tus redes de contacto" } # poner imagen
 
