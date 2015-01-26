@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GDayX Chile"
 email: "gdayxchile@gmail.com"
 description: "GDayX Chile - La previa"
-baseurl: "zeppelin"  ###################### REVISAR
+baseurl: "/zeppelin"  ###################### REVISAR
 url: "http://www.gdayx.cl"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-58027355-1"
