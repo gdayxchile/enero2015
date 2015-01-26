@@ -41,11 +41,11 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png" #### CAMBIAR FOTO #####
 
 
 # Navigation
-# navigationLinks:
- # - {permalink: "/", text: "Inicio"}
+navigationLinks:
+- {permalink: "/", text: "Inicio"}
  # - {permalink: "/blog/", text: "Blog"}
- # - {permalink: "/schedule/", text: "Agenda"}
- # - {permalink: "/speakers/", text: "Speakers"}
+- {permalink: "/schedule/", text: "Agenda"}
+- {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/team/", text: "Nosotros"}
  
 # Hero Block
@@ -55,14 +55,14 @@ eventDate: "Jueves 29 Enero - 19hrs"
 typeoutTextValues: '"", "Santiago", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Chile"
 heroButtons:
- - {permalink: "https://docs.google.com/forms/d/1hE67Pe5xMm9ejzD5ERzi68x2nyC0wyRd7HGsh3A470E/viewform", text: "¡Registrate Aqui!"}
+ - {permalink: "https://docs.google.com/forms/d/1hE67Pe5xMm9ejzD5ERzi68x2nyC0wyRd7HGsh3A470E/viewform", text: "¡Regístrate Aqui!"}
 
 # About Block
 aboutTitle: "Sobre el evento"
 aboutBlock:
- - {title: "Charlas", image: "conference.jpg", text: "Conoce herramientas técnicas y de negocios que te ayudarán a potenciar tus proyectos" } # poner imagen
- - {title: "Comunidad", image: "comunidades.jpg", text: "Sé parte de estas nuevas comunidades en Chile!" } # poner imagen
- - {title: "Redes de contacto", image: "networking.png", text: "Extiende tus redes de contacto" } # poner imagen
+ - {title: "Charlas", image: "conference.jpg", text: "En dos salones, realizaremos charlas paralelas: Conoce herramientas técnicas y de negocios que te ayudarán a potenciar tus proyectos e ideas." } # poner imagen
+ - {title: "Comunidad", image: "comunidades.jpg", text: "¡Sé parte de estas nuevas comunidades en Chile! Únete a los grupos GBG, GDG y Women Techmakers" } # poner imagen
+ - {title: "Redes de contacto", image: "networking.png", text: "Amplía tus redes de contacto" } # poner imagen
 
 # Statistic Block
 # statisticBlockImage: "statistic.jpg"
@@ -73,7 +73,7 @@ aboutBlock:
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Noticias"
+latestNewsTitle: "Bienvenidos"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"

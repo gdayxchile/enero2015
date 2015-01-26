@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "GdayX - La previa"
+date:   2014-07-21 09:00:00
+isStaticPost: true
+---
+
+#### ¡No te lo pierdas!
+Te invitamos al GdayX - La previa, evento colaborativo entre las comunidades GBG, GDG y Woman Techmakers que busca generar un punto de encuentro para presentar, difundir y enseñar sobre tecnologías aplicables a negocios y cualquier iniciativa que puedas emprender. Expertos de diversas disciplinas nos inspirarán y desafiarán para descubrir nuevas aplicaciones y herramientas para potenciar tus proyectos.
+
+El GdayX - La previa es un evento con conversaciones paralelas, desde lo técnico hasta lo relacionado a negocios, en un espacio único. 
+En dos salones, realizaremos charlas simultáneas: 
+* orientadas a negocios, organizadas por las comunidades GBG y Women Techmakers
+* enfocadas a desarrolladores, organizadas por la comunidad GDG.
+
+Te esperamos el 29 de enero desde las 18:30 hrs en el segundo piso del Centro de Innovación UC Anacleto Angelini.
+
+
+Las tematicas para GBG + Women Techmakers son:
+
+* Social Media
+* Usabilidad y colores en el móvil
+* Publicidad para emprendedores
+
+Las tematicas para GDG son:
+
+* App Engine: Herramientas y APIs 
+* App Engine con Python
+* AngularJS
+
+Finalmente cerraremos con un coctel en la terraza del mismo piso.
+
+#### Inscríbete [aquí](https://docs.google.com/forms/d/1hE67Pe5xMm9ejzD5ERzi68x2nyC0wyRd7HGsh3A470E/viewform).
+
+
+
+__¿Te gustaría ser speaker en un próximo evento?__
+
+Contáctate con nosotros en [gdayxchile@gmail.com](mailto:gdayxchile@gmail.com)     
+
+
+        
+### --------------------------------             
+
+  
+###### ¿Qué es el GBG?
+Google Business Group   
+
+###### ¿Qué es el GDG?
+Google Developers Group  
+
+###### ¿Qué es el Women Techmakers?
+Comunidad enfocada a la difusión de herramientas tecnológicas a mujeres emprendedoras
