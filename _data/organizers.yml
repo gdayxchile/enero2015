@@ -1,6 +1,6 @@
 - 
   # group: "Main organizer"
   elements: 
-    - {name: "GBG Santiago", description: "Google Business Group Santiago", link: "#", imageUrl: "avatar g+.png"}
-    - {name: "GDG Santiago", description: "Google Developers Group", link: "#", imageUrl: "GDG-program-logo.png"}
+    - {name: "GDG Santiago", description: "Google Developers Group Santiago Chile", link: "http://goo.gl/fmlxm8", imageUrl: "GDG-program-logo.png"}
     - {name: "Women Techmaker", description: "Women Techmaker", link: "#", imageUrl: "women_techmaker.png"}
+    - {name: "GBG Santiago", description: "Google Business Group Santiago", link: "#", imageUrl: "avatar g+.png"}
