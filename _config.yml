@@ -46,7 +46,7 @@ navigationLinks:
  # - {permalink: "/blog/", text: "Blog"}
 - {permalink: "/schedule/", text: "Agenda"}
 - {permalink: "/speakers/", text: "Speakers"}
-# - {permalink: "/team/", text: "Nosotros"}
+- {permalink: "/team/", text: "Nosotros"}
  
 # Hero Block
 heroImage: "DSC8557.png"
