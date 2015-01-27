@@ -60,7 +60,7 @@ heroButtons:
 # About Block
 aboutTitle: "Sobre el evento"
 aboutBlock:
- - {title: "Charlas", image: "conference_2.jpg", text: "En dos salones, realizaremos charlas paralelas: Conoce herramientas técnicas y de negocios que te ayudarán a potenciar tus proyectos e ideas." } # poner imagen
+ - {title: "Charlas", image: "conference.jpg", text: "En dos salones, realizaremos charlas paralelas: Conoce herramientas técnicas y de negocios que te ayudarán a potenciar tus proyectos e ideas." } # poner imagen
  - {title: "Comunidad", image: "comunidades.jpg", text: "¡Sé parte de estas nuevas comunidades en Chile! Únete a los grupos GBG, GDG y Women Techmakers" } # poner imagen
  - {title: "Redes de contacto", image: "networking.png", text: "Amplía tus redes de contacto" } # poner imagen
 
