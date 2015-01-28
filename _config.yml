@@ -46,7 +46,7 @@ navigationLinks:
  # - {permalink: "/blog/", text: "Blog"}
 - {permalink: "/schedule/", text: "Agenda"}
 - {permalink: "/speakers/", text: "Speakers"}
-# - {permalink: "/team/", text: "Nosotros"}
+- {permalink: "/team/", text: "Nosotros"}
  
 # Hero Block
 heroImage: "DSC8557.png"
@@ -195,8 +195,8 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+teamBlockTitle: "Acerca de nosotros"
+aboutUs: "Los servicios de Google se han convertido en sinónimo de las cosas simples en línea. El número de innovaciones tecnológicas y las industrias de TI en los que Google está creando nuevos productos es enorme. Es difícil llegar a conocer a todos ellos, siendo realista. Es por esto que la gente ha comenzado a reunirse en pequeños grupos locales y compartir sus experiencias. Más tarde, los siguientes grupos han sido llamados Google Developers Groups. GDG pueden tomar muchas formas - desde donde sólo unas pocas personas que se reúnen para ver algunos videos, hasta grandes reuniones con demostraciones, charlas técnicas, hackathons y conferencias."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
