@@ -23,3 +23,14 @@
     - {abbr: "Women Techmakers Chile Manager", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+RocioOlavarria/"}
+-
+  id: 2
+  name: "Roberto"
+  surname: "Puentes"
+  title: "Ingeniero Comercial, "
+  thumbnailUrl: Roberto_Puentes_2.jpg
+  team: true
+  ribbon:
+    - {abbr: "GBG", title: "Google Business Group Santiago"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/112880803662760256535/"}
