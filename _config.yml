@@ -56,6 +56,7 @@ typeoutTextValues: '"", "Santiago", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Chile"
 heroButtons:
  - {permalink: "https://docs.google.com/forms/d/1hE67Pe5xMm9ejzD5ERzi68x2nyC0wyRd7HGsh3A470E/viewform", text: "¡Regístrate Aqui!"}
+ - {permalink: "http://Bit.ly/gdayxchile", text: "¡Danos tu opinión!"}
 
 # About Block
 aboutTitle: "Sobre el evento"
